@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: springboot-demo
+  profiles:
+    active: dev
+
+server:
+  port: 8080
